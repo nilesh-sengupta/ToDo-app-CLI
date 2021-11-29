@@ -1,6 +1,8 @@
 # ToDo-app-CLI
 A very simple and lightweight ToDo app using python that can be  used from the command line
+<br>
 1)cd into the location where the project is contained in your machine
+<br>
 2)To get list of available commands use "python todo_app.py --help"
 <br>
 ![docs 1](https://user-images.githubusercontent.com/75481939/143843375-5a8c6b9f-7efa-405e-95ba-94b2ef2275d2.PNG)
