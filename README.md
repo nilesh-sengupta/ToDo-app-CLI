@@ -9,12 +9,15 @@ A very simple and lightweight ToDo app using python that can be  used from the c
 <br>
 3)To add a task in the list use "python todo_app.py add "the task" "
 <br>
-![doc 2](https://user-images.githubusercontent.com/75481939/143844325-6a754753-846c-4c96-b6a9-548a93172bf2.PNG)
+![replacement 2](https://user-images.githubusercontent.com/75481939/143901520-a7c200e2-cf58-492b-86aa-f9c5cac4ba31.PNG)
+
 <br>
 4)To view the list of tasks pending use "python todo_app.py read"
 <br>
-![doc 3](https://user-images.githubusercontent.com/75481939/143844482-a69c4f55-cc5c-4169-8793-7e04b8281733.PNG)
+![replacement 3](https://user-images.githubusercontent.com/75481939/143901560-36bd32d2-a935-443e-bdee-471f4962d423.PNG)
+
 <br>
 5)To delete a task once you are done with it use "python todo_app.py delete task number"
 <br>
-![doc 4](https://user-images.githubusercontent.com/75481939/143844608-a786a3ac-c6c4-4742-a25e-9a4846f81762.PNG)
+![replacement 4](https://user-images.githubusercontent.com/75481939/143901593-1fa9deb6-1390-4163-a367-1e959ea0bf19.PNG)
+
