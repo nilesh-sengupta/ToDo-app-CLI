@@ -1,3 +1,4 @@
-task 1
-task 2
-task 3
+29/11/2021 at 23:01 Complete CS101 assignment
+30/11/2021 at 23:02 Complete CS102 assignment
+01/12/2021 at 23:03 Complete CS103 assignment
+02/12/2021 at 23:04 Complete CS104 assignment
